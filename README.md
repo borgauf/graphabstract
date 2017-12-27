@@ -1,2 +1,2 @@
-# graphsurreal
-The graph in slightly surreal display
+# graphabstract
+The graph of abstractions
